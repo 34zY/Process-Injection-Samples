@@ -1,8 +1,6 @@
 /* 
 Title  : Basic Process Injection
 Author : 34zY
-Ressources : https://github.com/mhaskar/shellcode-process-injection/blob/master/Shellcode-Process-Injector.c
-			 https://github.com/Alh4zr3d/ProcessInjectionPOCs/blob/main/CreateThread.nim
 
 gcc CreateThread.c -o CreateThread.exe
 
